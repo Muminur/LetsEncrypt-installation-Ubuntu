@@ -1,0 +1,1 @@
+Save ssl-setup.sh, make it executable (chmod +x ssl-setup.sh), and run it with sudo ./ssl-setup.sh.
